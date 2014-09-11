@@ -1,0 +1,37 @@
+{
+	"node": true,
+	"browser": true,
+	"curly": false,
+	"eqeqeq": true,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"quotmark": "single",
+	"undef": true,
+	"unused": false,
+	"strict": true,
+	"smarttabs": false,
+	"globals": {
+		"angular": true
+	},
+	"predef": [
+		"angular",
+		"define",
+		"require",
+		"exports",
+		"module",
+		"describe",
+		"before",
+		"beforeEach",
+		"after",
+		"afterEach",
+		"it",
+		"inject",
+		"expect",
+		"spyOn",
+		"sprintf",
+        "FastClick"
+	],
+	"indent": 4,
+	"devel": true
+}

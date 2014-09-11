@@ -1,0 +1,19 @@
+[{
+    "id": "1",
+    "firstname": "Misko",
+    "lastname": "Havery",
+    "company": "Google",
+    "project": "AngularJS"
+}, {
+    "id": "2",
+    "firstname": "Srini",
+    "lastname": "Kusunam",
+    "company": "LibertyLeap",
+    "project": "Backbone.Paginator"
+}, {
+    "id": "3",
+    "firstname": "Derick",
+    "lastname": "Bailey",
+    "company": "Muted Solutions",
+    "project": "Backbone.Marionette"
+}]
