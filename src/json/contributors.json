@@ -1,19 +1,19 @@
 [{
     "id": "1",
     "firstname": "Misko",
-    "lastname": "Havery",
+    "lastname": "Hevery",
     "company": "Google",
     "project": "AngularJS"
 }, {
     "id": "2",
-    "firstname": "Srini",
-    "lastname": "Kusunam",
-    "company": "LibertyLeap",
-    "project": "Backbone.Paginator"
+    "firstname": "Itay",
+    "lastname": "Herskovits",
+    "company": "Backand",
+    "project": "Backand.REST"
 }, {
     "id": "3",
-    "firstname": "Derick",
-    "lastname": "Bailey",
-    "company": "Muted Solutions",
-    "project": "Backbone.Marionette"
+    "firstname": "Relly",
+    "lastname": "Rivlin",
+    "company": "Backand",
+    "project": "Backand.AngularJS"
 }]
