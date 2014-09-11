@@ -1,7 +1,6 @@
-## angular-grunt-seed — the seed for AngularJS apps with Bower and Grunt support (jshint, Karma, Watch, express, livereload etc)
+## ng-grid and a Simple REST
 
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app. You can use it to quickly bootstrap your angular webapp projects and dev environment for these projects. This comes with default Grunt build for lint, Karma, Watch, livereload, express server etc.
-
+This demo provides a grid solution using Angular and ng-grid, which hooks in to the RESTful end point running locally using NodeJS & ExpressJS. 
 
 ## How to use angular-grunt-seed
 
